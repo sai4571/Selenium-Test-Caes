@@ -15,7 +15,7 @@ public class AppTest {
         String eTitle = "Meet Guru99";
         String aTitle = "";
         // launch Firefox and redirect it to the Base URL
-        driver.get("http://www.gmail.com/");
+        driver.get("http://www.guru99.com/");
         //maximises the browser window
         driver.manage().window().maximize();
         // get the actual value of the title
